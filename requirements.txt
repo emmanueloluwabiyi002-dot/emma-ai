@@ -1,1 +1,2 @@
-flask\ngroq\ngunicorn\n
+streamlit
+groq
